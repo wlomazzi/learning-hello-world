@@ -1,4 +1,5 @@
 class Button {
+	//Comentário - atualização Github
 	constructor (id, text) {
 		this.element = document.createElement("button");
 		this.element.id = id;
